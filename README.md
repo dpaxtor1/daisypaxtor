@@ -1,4 +1,4 @@
-# Portfolio — Home — design reference
+# Personal Portfolio of Daisy Paxtor Oxlaj 
 
 This is a design mockup created in a visual design tool, exported as a
 standalone page. Treat it as a REFERENCE MOCKUP, not production code:
